@@ -1,0 +1,2 @@
+# AEDR
+AdditionalEffectiveDampingRatio Calculation
