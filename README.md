@@ -1,2 +1,6 @@
 # AEDR
 AdditionalEffectiveDampingRatio Calculation
+
+消能减震结构中附加有效阻尼比的计算软件
+
+针对布置有屈曲支撑（BRB）的消能减震结构，在大震弹塑性时程分析结果后，根据规范方法进行附加有效阻尼比的计算，提供动态的可视化图表和计算书整理等内容。
